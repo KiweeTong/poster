@@ -1,7 +1,4 @@
 [{
-  "title": "某地产海报",
-  "url": "poster/RenneGarden.jpg"
-}, {
   "title": "儿童节海报",
   "url": "poster/children's-day-min.jpg"
 }, {
@@ -13,6 +10,9 @@
 }, {
   "title": "关爱自闭症儿童系列2--东哥小馆",
   "url": "poster/autism2.jpg"
+}, {
+  "title": "某地产海报",
+  "url": "poster/RenneGarden.jpg"
 }, {
   "title": "attabj logo",
   "url": "logo/attabj.jpg"
