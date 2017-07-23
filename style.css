@@ -1,0 +1,35 @@
+h4 {
+  margin: 0;
+}
+
+#container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+}
+
+.media {
+  position: relative;
+}
+
+.media:hover h4 {
+  display: block;
+}
+
+.media h4 {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  line-height: 2em;
+  background: rgba(0, 0, 0, 0.2);
+  color: white;
+}
+
+.media img {
+  margin-bottom: 10px;
+}
